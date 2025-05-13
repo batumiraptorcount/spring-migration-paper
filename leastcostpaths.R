@@ -7,27 +7,22 @@ library(ggfx)
 library(sf)
 library(imager)
 
+# Load DEM
 dem <- rast("data/dem/Georgia_DEM_1200x800.tif")
-dem[dem < 1] <- NA
+dem[dem < 1] <- NA  # Removes gaps where the LCPS algorithm gets stuck
 
-rep.row<-function(x,n){
-  matrix(rep(x,each=n),nrow=n)
-}
-rep.col<-function(x,n){
-  matrix(rep(x,each=n), ncol=n, byrow=TRUE)
-}
-
-
+# Generate slightly tilted DEM to force paths to differ per season
 gradient_autumn <- seq(from = max(as.matrix(dem), na.rm = TRUE), to = min(as.matrix(dem), na.rm = TRUE), length.out = 800)
 m_autumn <- rep.col(gradient_autumn, 1200)
-m_autumn <- as.matrix(imrotate(as.cimg(m_autumn), -15, interpolation = 2, boundary = 1))[1:800, 1:1200] # Slight rotation
-dem_autumn_pressure <- rast(m_autumn, extent = ext(dem))
+m_autumn <- as.matrix(imrotate(as.cimg(m_autumn), -15, interpolation = 2, boundary = 1))[1:800, 1:1200]
+dem_autumn_tilted <- rast(m_autumn, extent = ext(dem))
 
 gradient_spring <- rev(gradient_autumn)
 m_spring <- rep.col(gradient_spring, 1200)
-m_spring <- as.matrix(imrotate(as.cimg(m_spring), -15, interpolation = 2, boundary = 1))[1:800, 1:1200] # Slight rotation
-dem_spring_pressure <- rast(m_spring, extent = ext(dem))
+m_spring <- as.matrix(imrotate(as.cimg(m_spring), -15, interpolation = 2, boundary = 1))[1:800, 1:1200]
+dem_spring_tilted <- rast(m_spring, extent = ext(dem))
 
+# Set starting and finishing destinations
 spring_min_y <- 4445581
 spring_x <- seq(from = -10947.54, to = 497155, len = 100)
 spring_locs <- expand.grid(x = spring_x, y = spring_min_y)
@@ -48,12 +43,12 @@ points_autumn <- lapply(1:nrow(coordinates_autumn), function(i) {
 })
 locs_autumn <- sf::st_sf(geometry = sf::st_sfc(points_autumn, crs = terra::crs(dem)))
 
-
+# LCPS function, takes a LONG time to run
 calculate_lcps <- function(season) {
   if (season == "autumn") {
-    dem_used <- dem + dem_autumn_pressure
+    dem_used <- dem + dem_autumn_tilted
   } else if (season == "spring") {
-    dem_used <- dem + dem_spring_pressure
+    dem_used <- dem + dem_spring_tilted
   } else {
     dem_used <- dem
   }
@@ -108,22 +103,26 @@ st_write(lcps_autumn_short, "data/lcps/LCPaths_Autumn_shortest.kml", append = FA
 
 ggplot() +
   with_outer_glow(
-    geom_sf(data = st_jitter(lcps_autumn_short), alpha = 1/25, color = "yellow"),
+    geom_sf(data = st_jitter(lcps_autumn_short), alpha = 1 / 25, color = "yellow"),
     colour = "yellow",
-    sigma = 5) +
+    sigma = 5
+  ) +
   with_outer_glow(
-    geom_sf(data = st_jitter(lcps_spring_short), alpha = 1/25, color = "white"),
+    geom_sf(data = st_jitter(lcps_spring_short), alpha = 1 / 25, color = "white"),
     colour = "white",
-    sigma = 5) +
+    sigma = 5
+  ) +
   dark_theme_gray()
 
 ggplot() +
   with_outer_glow(
-    geom_sf(data = st_jitter(lcps_autumn_short_rotated), alpha = 1/25, color = "yellow"),
+    geom_sf(data = st_jitter(lcps_autumn_short_rotated), alpha = 1 / 25, color = "yellow"),
     colour = "yellow",
-    sigma = 5) +
+    sigma = 5
+  ) +
   with_outer_glow(
-    geom_sf(data = st_jitter(lcps_spring_short_rotated), alpha = 1/25, color = "white"),
+    geom_sf(data = st_jitter(lcps_spring_short_rotated), alpha = 1 / 25, color = "white"),
     colour = "white",
-    sigma = 5) +
+    sigma = 5
+  ) +
   dark_theme_gray()
