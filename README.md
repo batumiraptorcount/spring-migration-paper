@@ -2,6 +2,9 @@
 Code for the spring paper Tal et al.
 
 ## Additional data
+### Count data analysis
+The script used to process data, create tables, and compare the significance of autumn and spring count data can be found in `1. BRC - Processing count data.R`. The code for visualizing the output from this processing step is in `2. BRC - Visualizing count data.R`. An overview of the additional non-raptor species counted (as reported in the supplements of Tal et al.) is provided in `3. BRC - Summarizing non-raptor count data.R`.
+
 ### Digital Elevation Model
 [30-m SRTM Digital Elevation Model](https://lpdaac.usgs.gov/products/srtmgl1v003/) data can easily be downloaded via [this tool](https://dwtkns.com/srtm30m/). The file used for the generation of least cost paths in Georgia can be found in `data/dem/Georgia_DEM_1200x800.tif`.
 
