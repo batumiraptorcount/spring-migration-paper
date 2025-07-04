@@ -6,12 +6,13 @@ library(ggdark)
 library(ggfx)
 library(sf)
 library(imager)
+library(tidyterra)
 
 # Load DEM
 dem <- rast("data/dem/Georgia_DEM_1200x800.tif")
 dem[dem < 1] <- NA  # Removes gaps where the LCPS algorithm gets stuck
 
-# Generate slightly tilted DEM to force paths to differ per season
+# Generate tilted DEM to force paths to differ per season
 gradient_autumn <- seq(from = max(as.matrix(dem), na.rm = TRUE), to = min(as.matrix(dem), na.rm = TRUE), length.out = 800)
 m_autumn <- rep.col(gradient_autumn, 1200)
 m_autumn <- as.matrix(imrotate(as.cimg(m_autumn), -15, interpolation = 2, boundary = 1))[1:800, 1:1200]
@@ -126,3 +127,22 @@ ggplot() +
     sigma = 5
   ) +
   dark_theme_gray()
+
+dem_autumn <- dem + dem_autumn_tilted
+dem_spring <- dem + dem_spring_tilted
+
+all_dems <- c(dem, dem_autumn, dem_spring)
+names(all_dems) <- c("Original DEM", "Tilted Autumn DEM", "Tilted Spring DEM")
+
+ggplot() +
+  geom_spatraster(data = all_dems) +
+  annotate("point", y = 41.68, x = 41.73, color = "white", size = 1) +
+  scale_fill_viridis_c(name = "Elevation [m]") +
+  coord_sf(expand = FALSE) +
+  facet_wrap(~lyr, ncol = 3) +
+  labs(x = bquote("Longitude [" * degree * "]"), y = bquote("Latitude [" * degree * "]")) +
+  theme_minimal(base_size = 10) +
+  theme(panel.spacing = unit(1.5, "lines"))
+
+ggsave("data/dem/tilted_dem_vis.pdf", width = 10, height = 3)
+  
