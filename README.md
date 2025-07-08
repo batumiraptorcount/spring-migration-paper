@@ -1,7 +1,10 @@
 # spring-migration-paper
-Code for the spring paper Tal et al.
+Code and data for the spring paper Tal et al.
 
 ## Additional data
+### Filtered count data
+The filtered count data used in the analysis scripts below can be found in the `data/Count data` directory. For both the spring and autumn seasons, `Annual-totals-per-distance-zone_FILTERED.csv` contains the annual totals, while `Daily-totals-per-distance-zone_FILTERED.csv` provides the daily totals. Before using these files, please consult the `Meta data.md` for explanations of each column.
+
 ### Count data analysis
 The script used to process data, create tables, and compare the significance of autumn and spring count data can be found in `1. BRC - Processing count data.R`. The code for visualizing the output from this processing step is in `2. BRC - Visualizing count data.R`. An overview of the additional non-raptor species counted (as reported in the supplements of Tal et al.) is provided in `3. BRC - Summarizing non-raptor count data.R`.
 
