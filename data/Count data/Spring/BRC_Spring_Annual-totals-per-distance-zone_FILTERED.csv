@@ -1,0 +1,318 @@
+"","englishname","latinname","speciesgroup","year","distance","yrtot","yr.maxday","yrtot.back","yrtot.fin"
+"1","Black kite","Milvus migrans","Buzzards & Kites",2019,"Coast",195083,40181,0,195083
+"2","Black kite","Milvus migrans","Buzzards & Kites",2019,"Foothills",15195,2038,0,15195
+"3","Black kite","Milvus migrans","Buzzards & Kites",2019,"Interior",9843,2744,0,9843
+"4","Black kite","Milvus migrans","Buzzards & Kites",2020,"Coast",198043,43347,42,198001
+"5","Black kite","Milvus migrans","Buzzards & Kites",2020,"Foothills",21588,2815,1,21587
+"6","Black kite","Milvus migrans","Buzzards & Kites",2020,"Interior",14871,2594,0,14871
+"7","Black kite","Milvus migrans","Buzzards & Kites",2022,"Coast",212298,24780,477,211821
+"8","Black kite","Milvus migrans","Buzzards & Kites",2022,"Foothills",28238,4906,3,28235
+"9","Black kite","Milvus migrans","Buzzards & Kites",2022,"Interior",23788,4655,0,23788
+"10","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2019,"Coast",151,18,0,151
+"11","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2019,"Foothills",70,10,0,70
+"12","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2019,"Interior",40,16,0,40
+"13","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2020,"Coast",330,50,0,330
+"14","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2020,"Foothills",116,19,1,115
+"15","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2020,"Interior",52,22,0,52
+"16","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2022,"Coast",411,60,0,411
+"17","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2022,"Foothills",81,13,0,81
+"18","Black stork","Ciconia negra","Cranes, Storks & Pelicans",2022,"Interior",54,9,0,54
+"19","Black vulture","Aegypius monachus","Rare",2019,"Coast",1,1,0,1
+"20","Black vulture","Aegypius monachus","Rare",2020,"Coast",0,0,1,-1
+"21","Black vulture","Aegypius monachus","Rare",2020,"Foothills",1,1,0,1
+"22","Black vulture","Aegypius monachus","Rare",2022,"Coast",2,1,0,2
+"23","Booted eagle","Hieraaetus pennatus","Eagles",2019,"Coast",759,114,0,759
+"24","Booted eagle","Hieraaetus pennatus","Eagles",2019,"Foothills",95,14,0,95
+"25","Booted eagle","Hieraaetus pennatus","Eagles",2019,"Interior",27,8,0,27
+"26","Booted eagle","Hieraaetus pennatus","Eagles",2020,"Coast",1518,179,0,1518
+"27","Booted eagle","Hieraaetus pennatus","Eagles",2020,"Foothills",175,27,0,175
+"28","Booted eagle","Hieraaetus pennatus","Eagles",2020,"Interior",63,17,0,63
+"29","Booted eagle","Hieraaetus pennatus","Eagles",2022,"Coast",1179,126,0,1179
+"30","Booted eagle","Hieraaetus pennatus","Eagles",2022,"Foothills",164,19,0,164
+"31","Booted eagle","Hieraaetus pennatus","Eagles",2022,"Interior",144,23,0,144
+"32","buzzard spec","Buteo/Pernis","Buzzards & Kites",2019,"Coast",34,31,0,34
+"33","buzzard spec","Buteo/Pernis","Buzzards & Kites",2019,"Foothills",169,87,0,169
+"34","buzzard spec","Buteo/Pernis","Buzzards & Kites",2019,"Interior",92,57,0,92
+"35","buzzard spec","Buteo/Pernis","Buzzards & Kites",2020,"Coast",2,1,0,2
+"36","buzzard spec","Buteo/Pernis","Buzzards & Kites",2020,"Foothills",1384,828,0,1384
+"37","buzzard spec","Buteo/Pernis","Buzzards & Kites",2020,"Interior",2327,697,0,2327
+"38","buzzard spec","Buteo/Pernis","Buzzards & Kites",2022,"Coast",411,139,0,411
+"39","buzzard spec","Buteo/Pernis","Buzzards & Kites",2022,"Foothills",107,95,0,107
+"40","buzzard spec","Buteo/Pernis","Buzzards & Kites",2022,"Interior",563,503,0,563
+"41","Common buzzard","Buteo buteo","Buzzards & Kites",2019,"Coast",1,1,0,1
+"42","Common buzzard","Buteo buteo","Buzzards & Kites",2020,"Coast",2,1,0,2
+"43","Common buzzard","Buteo buteo","Buzzards & Kites",2022,"Coast",9,2,0,9
+"44","Common kestrel","Falco tinnunculus","Falcons",2019,"Coast",21,3,2,19
+"45","Common kestrel","Falco tinnunculus","Falcons",2019,"Foothills",2,1,0,2
+"46","Common kestrel","Falco tinnunculus","Falcons",2020,"Coast",46,8,2,44
+"47","Common kestrel","Falco tinnunculus","Falcons",2020,"Foothills",15,3,0,15
+"48","Common kestrel","Falco tinnunculus","Falcons",2022,"Coast",41,4,2,39
+"49","Common kestrel","Falco tinnunculus","Falcons",2022,"Foothills",1,1,0,1
+"50","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2019,"Coast",16,8,0,16
+"51","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2019,"Foothills",2,1,1,1
+"52","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2019,"Interior",1,1,0,1
+"53","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2020,"Coast",55,5,4,51
+"54","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2020,"Foothills",18,4,1,17
+"55","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2020,"Interior",7,2,0,7
+"56","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2022,"Coast",130,23,2,128
+"57","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2022,"Foothills",28,5,0,28
+"58","Common/Lesser kestrel","F. tinnunculus/naumanni","Falcons",2022,"Interior",15,4,0,15
+"59","Crested honey buzzard","Pernis ptilorhynchus","Buzzards & Kites",2019,"Coast",3,1,0,3
+"60","Crested honey buzzard","Pernis ptilorhynchus","Buzzards & Kites",2020,"Coast",1,1,0,1
+"61","Crested honey buzzard","Pernis ptilorhynchus","Buzzards & Kites",2022,"Coast",17,6,0,17
+"62","Crested honey buzzard","Pernis ptilorhynchus","Buzzards & Kites",2022,"Foothills",2,1,0,2
+"63","eagle spec","Aquila/Clanga","Eagles",2019,"Coast",620,152,0,620
+"64","eagle spec","Aquila/Clanga","Eagles",2019,"Foothills",170,51,0,170
+"65","eagle spec","Aquila/Clanga","Eagles",2019,"Interior",330,94,0,330
+"66","eagle spec","Aquila/Clanga","Eagles",2020,"Coast",812,236,0,812
+"67","eagle spec","Aquila/Clanga","Eagles",2020,"Foothills",722,256,0,722
+"68","eagle spec","Aquila/Clanga","Eagles",2020,"Interior",677,112,0,677
+"69","eagle spec","Aquila/Clanga","Eagles",2022,"Coast",1553,163,1,1552
+"70","eagle spec","Aquila/Clanga","Eagles",2022,"Foothills",757,107,1,756
+"71","eagle spec","Aquila/Clanga","Eagles",2022,"Interior",1741,256,0,1741
+"72","Egyptian vulture","Neophron percnopterus","Rare",2019,"Coast",6,3,0,6
+"73","Egyptian vulture","Neophron percnopterus","Rare",2019,"Foothills",2,1,0,2
+"74","Egyptian vulture","Neophron percnopterus","Rare",2019,"Interior",2,2,1,1
+"75","Egyptian vulture","Neophron percnopterus","Rare",2020,"Coast",5,1,0,5
+"76","Egyptian vulture","Neophron percnopterus","Rare",2020,"Foothills",4,1,0,4
+"77","Egyptian vulture","Neophron percnopterus","Rare",2020,"Interior",2,1,0,2
+"78","Egyptian vulture","Neophron percnopterus","Rare",2022,"Coast",10,2,0,10
+"79","Egyptian vulture","Neophron percnopterus","Rare",2022,"Foothills",5,2,0,5
+"80","Egyptian vulture","Neophron percnopterus","Rare",2022,"Interior",1,1,1,0
+"81","Eurasian sparrowhawk","Accipiter nisus","Hawks",2019,"Coast",4415,422,0,4415
+"82","Eurasian sparrowhawk","Accipiter nisus","Hawks",2019,"Foothills",943,176,0,943
+"83","Eurasian sparrowhawk","Accipiter nisus","Hawks",2019,"Interior",666,106,0,666
+"84","Eurasian sparrowhawk","Accipiter nisus","Hawks",2020,"Coast",10491,1275,1,10490
+"85","Eurasian sparrowhawk","Accipiter nisus","Hawks",2020,"Foothills",2084,219,0,2084
+"86","Eurasian sparrowhawk","Accipiter nisus","Hawks",2020,"Interior",1746,225,0,1746
+"87","Eurasian sparrowhawk","Accipiter nisus","Hawks",2022,"Coast",6599,764,3,6596
+"88","Eurasian sparrowhawk","Accipiter nisus","Hawks",2022,"Foothills",954,110,3,951
+"89","Eurasian sparrowhawk","Accipiter nisus","Hawks",2022,"Interior",1839,156,0,1839
+"90","Falcon spec","Falco spec","Falcons",2019,"Coast",2,1,0,2
+"91","Falcon spec","Falco spec","Falcons",2019,"Interior",1,1,0,1
+"92","Falcon spec","Falco spec","Falcons",2020,"Coast",4,2,0,4
+"93","Falcon spec","Falco spec","Falcons",2020,"Interior",1,1,0,1
+"94","Falcon spec","Falco spec","Falcons",2022,"Coast",17,7,1,16
+"95","Falcon spec","Falco spec","Falcons",2022,"Foothills",8,2,0,8
+"96","Falcon spec","Falco spec","Falcons",2022,"Interior",3,2,0,3
+"97","Golden eagle","Aquila chrysaetos","Eagles",2019,"Interior",1,1,0,1
+"98","Golden eagle","Aquila chrysaetos","Eagles",2020,"Foothills",1,1,0,1
+"99","Golden eagle","Aquila chrysaetos","Eagles",2020,"Interior",2,1,0,2
+"100","Golden eagle","Aquila chrysaetos","Eagles",2022,"Interior",2,1,0,2
+"101","Goshawk","Accipiter gentilis","Hawks",2020,"Coast",7,1,1,6
+"102","Goshawk","Accipiter gentilis","Hawks",2020,"Foothills",3,1,0,3
+"103","Goshawk","Accipiter gentilis","Hawks",2022,"Coast",6,2,1,5
+"104","Greater spotted eagle","Clanga clanga","Eagles",2019,"Coast",96,16,0,96
+"105","Greater spotted eagle","Clanga clanga","Eagles",2019,"Foothills",11,2,0,11
+"106","Greater spotted eagle","Clanga clanga","Eagles",2019,"Interior",5,1,0,5
+"107","Greater spotted eagle","Clanga clanga","Eagles",2020,"Coast",237,39,0,237
+"108","Greater spotted eagle","Clanga clanga","Eagles",2020,"Foothills",42,8,1,41
+"109","Greater spotted eagle","Clanga clanga","Eagles",2020,"Interior",5,2,0,5
+"110","Greater spotted eagle","Clanga clanga","Eagles",2022,"Coast",160,43,1,159
+"111","Greater spotted eagle","Clanga clanga","Eagles",2022,"Foothills",13,5,0,13
+"112","Griffon vulture","Gyps fulvus","Rare",2019,"Coast",3,1,0,3
+"113","Griffon vulture","Gyps fulvus","Rare",2020,"Interior",1,1,0,1
+"114","Griffon vulture","Gyps fulvus","Rare",2022,"Coast",2,1,0,2
+"115","Griffon vulture","Gyps fulvus","Rare",2022,"Interior",1,1,0,1
+"116","harrier spec","Circus spec","Harriers",2019,"Coast",5,4,0,5
+"117","harrier spec","Circus spec","Harriers",2019,"Foothills",1,1,0,1
+"118","harrier spec","Circus spec","Harriers",2019,"Interior",7,4,0,7
+"119","harrier spec","Circus spec","Harriers",2020,"Coast",4,3,0,4
+"120","harrier spec","Circus spec","Harriers",2020,"Interior",4,1,0,4
+"121","harrier spec","Circus spec","Harriers",2022,"Coast",17,7,0,17
+"122","harrier spec","Circus spec","Harriers",2022,"Foothills",2,1,0,2
+"123","harrier spec","Circus spec","Harriers",2022,"Interior",34,15,0,34
+"124","hawk spec","Accipiter spec","Hawks",2019,"Coast",308,80,0,308
+"125","hawk spec","Accipiter spec","Hawks",2019,"Foothills",83,34,0,83
+"126","hawk spec","Accipiter spec","Hawks",2019,"Interior",13,4,0,13
+"127","hawk spec","Accipiter spec","Hawks",2020,"Coast",3,1,0,3
+"128","hawk spec","Accipiter spec","Hawks",2020,"Interior",13,6,0,13
+"129","hawk spec","Accipiter spec","Hawks",2022,"Coast",1200,423,0,1200
+"130","hawk spec","Accipiter spec","Hawks",2022,"Foothills",242,72,0,242
+"131","hawk spec","Accipiter spec","Hawks",2022,"Interior",439,213,0,439
+"132","Hen harrier","Circus cyaneus","Harriers",2019,"Coast",64,9,1,63
+"133","Hen harrier","Circus cyaneus","Harriers",2019,"Foothills",19,3,0,19
+"134","Hen harrier","Circus cyaneus","Harriers",2019,"Interior",6,2,0,6
+"135","Hen harrier","Circus cyaneus","Harriers",2020,"Coast",131,13,0,131
+"136","Hen harrier","Circus cyaneus","Harriers",2020,"Foothills",38,9,1,37
+"137","Hen harrier","Circus cyaneus","Harriers",2020,"Interior",20,7,0,20
+"138","Hen harrier","Circus cyaneus","Harriers",2022,"Coast",128,19,0,128
+"139","Hen harrier","Circus cyaneus","Harriers",2022,"Foothills",26,7,0,26
+"140","Hen harrier","Circus cyaneus","Harriers",2022,"Interior",10,2,0,10
+"141","Hobby","Falco subbuteo","Falcons",2019,"Coast",17,4,2,15
+"142","Hobby","Falco subbuteo","Falcons",2019,"Foothills",4,3,0,4
+"143","Hobby","Falco subbuteo","Falcons",2020,"Coast",98,13,1,97
+"144","Hobby","Falco subbuteo","Falcons",2020,"Foothills",6,1,0,6
+"145","Hobby","Falco subbuteo","Falcons",2022,"Coast",98,17,0,98
+"146","Hobby","Falco subbuteo","Falcons",2022,"Foothills",12,2,0,12
+"147","Hobby","Falco subbuteo","Falcons",2022,"Interior",3,2,0,3
+"148","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2019,"Coast",2,1,0,2
+"149","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2019,"Foothills",1,1,0,1
+"150","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2020,"Coast",11,3,0,11
+"151","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2020,"Foothills",3,1,0,3
+"152","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2020,"Interior",2,1,0,2
+"153","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2022,"Coast",19,2,0,19
+"154","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2022,"Foothills",3,1,0,3
+"155","Hobby/Red-footed falcon","F. subbuteo/vespertinus","Falcons",2022,"Interior",9,3,0,9
+"156","Honey buzzard","Pernis apivorus","Buzzards & Kites",2019,"Coast",39437,14282,0,39437
+"157","Honey buzzard","Pernis apivorus","Buzzards & Kites",2019,"Foothills",39498,25113,0,39498
+"158","Honey buzzard","Pernis apivorus","Buzzards & Kites",2019,"Interior",10426,2887,0,10426
+"159","Honey buzzard","Pernis apivorus","Buzzards & Kites",2020,"Coast",15047,5634,0,15047
+"160","Honey buzzard","Pernis apivorus","Buzzards & Kites",2020,"Foothills",14961,2671,0,14961
+"161","Honey buzzard","Pernis apivorus","Buzzards & Kites",2020,"Interior",11395,7210,0,11395
+"162","Honey buzzard","Pernis apivorus","Buzzards & Kites",2022,"Coast",19934,4420,4,19930
+"163","Honey buzzard","Pernis apivorus","Buzzards & Kites",2022,"Foothills",8829,2677,0,8829
+"164","Honey buzzard","Pernis apivorus","Buzzards & Kites",2022,"Interior",5456,898,0,5456
+"165","Imperial eagle","Aquila heliaca","Eagles",2019,"Coast",22,4,1,21
+"166","Imperial eagle","Aquila heliaca","Eagles",2019,"Foothills",4,1,0,4
+"167","Imperial eagle","Aquila heliaca","Eagles",2020,"Coast",55,9,1,54
+"168","Imperial eagle","Aquila heliaca","Eagles",2020,"Foothills",21,3,1,20
+"169","Imperial eagle","Aquila heliaca","Eagles",2020,"Interior",2,1,0,2
+"170","Imperial eagle","Aquila heliaca","Eagles",2022,"Coast",124,26,0,124
+"171","Imperial eagle","Aquila heliaca","Eagles",2022,"Foothills",21,4,0,21
+"172","Imperial eagle","Aquila heliaca","Eagles",2022,"Interior",10,2,0,10
+"173","Lesser kestrel","Falco naumanni","Falcons",2019,"Coast",6,2,0,6
+"174","Lesser kestrel","Falco naumanni","Falcons",2022,"Coast",1,1,0,1
+"175","Lesser spotted eagle","Clanga pomarina","Eagles",2019,"Coast",878,85,0,878
+"176","Lesser spotted eagle","Clanga pomarina","Eagles",2019,"Foothills",135,15,0,135
+"177","Lesser spotted eagle","Clanga pomarina","Eagles",2019,"Interior",110,28,0,110
+"178","Lesser spotted eagle","Clanga pomarina","Eagles",2020,"Coast",1504,224,0,1504
+"179","Lesser spotted eagle","Clanga pomarina","Eagles",2020,"Foothills",271,43,0,271
+"180","Lesser spotted eagle","Clanga pomarina","Eagles",2020,"Interior",36,8,0,36
+"181","Lesser spotted eagle","Clanga pomarina","Eagles",2022,"Coast",880,127,0,880
+"182","Lesser spotted eagle","Clanga pomarina","Eagles",2022,"Foothills",49,12,0,49
+"183","Lesser spotted eagle","Clanga pomarina","Eagles",2022,"Interior",4,3,0,4
+"184","Levant sparrowhawk","Accipiter brevipes","Hawks",2019,"Coast",678,255,0,678
+"185","Levant sparrowhawk","Accipiter brevipes","Hawks",2019,"Foothills",471,137,0,471
+"186","Levant sparrowhawk","Accipiter brevipes","Hawks",2019,"Interior",21,8,0,21
+"187","Levant sparrowhawk","Accipiter brevipes","Hawks",2020,"Coast",908,404,0,908
+"188","Levant sparrowhawk","Accipiter brevipes","Hawks",2020,"Foothills",565,228,0,565
+"189","Levant sparrowhawk","Accipiter brevipes","Hawks",2020,"Interior",50,12,0,50
+"190","Levant sparrowhawk","Accipiter brevipes","Hawks",2022,"Coast",1076,849,0,1076
+"191","Levant sparrowhawk","Accipiter brevipes","Hawks",2022,"Foothills",134,115,0,134
+"192","Levant sparrowhawk","Accipiter brevipes","Hawks",2022,"Interior",159,139,0,159
+"193","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2019,"Coast",21,6,1,20
+"194","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2019,"Foothills",4,1,0,4
+"195","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2020,"Coast",42,6,3,39
+"196","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2020,"Foothills",12,2,1,11
+"197","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2020,"Interior",8,6,0,8
+"198","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2022,"Coast",103,34,9,94
+"199","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2022,"Foothills",5,2,0,5
+"200","Long-legged buzzard","Buteo rufinus","Buzzards & Kites",2022,"Interior",1,1,0,1
+"201","Marsh harrier","Circus aeruginosus","Harriers",2019,"Coast",820,137,3,817
+"202","Marsh harrier","Circus aeruginosus","Harriers",2019,"Foothills",169,36,0,169
+"203","Marsh harrier","Circus aeruginosus","Harriers",2019,"Interior",69,35,0,69
+"204","Marsh harrier","Circus aeruginosus","Harriers",2020,"Coast",1607,186,6,1601
+"205","Marsh harrier","Circus aeruginosus","Harriers",2020,"Foothills",251,53,0,251
+"206","Marsh harrier","Circus aeruginosus","Harriers",2020,"Interior",171,40,0,171
+"207","Marsh harrier","Circus aeruginosus","Harriers",2022,"Coast",1859,155,8,1851
+"208","Marsh harrier","Circus aeruginosus","Harriers",2022,"Foothills",238,26,1,237
+"209","Marsh harrier","Circus aeruginosus","Harriers",2022,"Interior",214,18,0,214
+"210","Merlin","Falco columbarius","Falcons",2019,"Coast",6,1,0,6
+"211","Merlin","Falco columbarius","Falcons",2019,"Foothills",2,1,0,2
+"212","Merlin","Falco columbarius","Falcons",2020,"Coast",5,1,0,5
+"213","Merlin","Falco columbarius","Falcons",2022,"Coast",3,1,0,3
+"214","Merlin","Falco columbarius","Falcons",2022,"Foothills",1,1,0,1
+"215","Montagu's harrier","Circus pygargus","Harriers",2019,"Coast",45,10,0,45
+"216","Montagu's harrier","Circus pygargus","Harriers",2019,"Foothills",11,5,0,11
+"217","Montagu's harrier","Circus pygargus","Harriers",2020,"Coast",155,76,1,154
+"218","Montagu's harrier","Circus pygargus","Harriers",2020,"Foothills",10,2,1,9
+"219","Montagu's harrier","Circus pygargus","Harriers",2020,"Interior",1,1,0,1
+"220","Montagu's harrier","Circus pygargus","Harriers",2022,"Coast",73,11,1,72
+"221","Montagu's harrier","Circus pygargus","Harriers",2022,"Foothills",10,3,0,10
+"222","Osprey","Pandion haliaetus","Eagles",2019,"Coast",18,4,0,18
+"223","Osprey","Pandion haliaetus","Eagles",2019,"Foothills",4,2,0,4
+"224","Osprey","Pandion haliaetus","Eagles",2020,"Coast",25,5,0,25
+"225","Osprey","Pandion haliaetus","Eagles",2020,"Foothills",4,2,1,3
+"226","Osprey","Pandion haliaetus","Eagles",2020,"Interior",11,3,0,11
+"227","Osprey","Pandion haliaetus","Eagles",2022,"Coast",23,3,0,23
+"228","Osprey","Pandion haliaetus","Eagles",2022,"Foothills",6,2,0,6
+"229","Osprey","Pandion haliaetus","Eagles",2022,"Interior",10,2,0,10
+"230","Pallid harrier","Circus macrourus","Harriers",2019,"Coast",77,14,1,76
+"231","Pallid harrier","Circus macrourus","Harriers",2019,"Foothills",17,7,0,17
+"232","Pallid harrier","Circus macrourus","Harriers",2019,"Interior",5,3,0,5
+"233","Pallid harrier","Circus macrourus","Harriers",2020,"Coast",101,12,2,99
+"234","Pallid harrier","Circus macrourus","Harriers",2020,"Foothills",28,13,0,28
+"235","Pallid harrier","Circus macrourus","Harriers",2020,"Interior",15,5,0,15
+"236","Pallid harrier","Circus macrourus","Harriers",2022,"Coast",81,6,6,75
+"237","Pallid harrier","Circus macrourus","Harriers",2022,"Foothills",11,3,0,11
+"238","Pallid harrier","Circus macrourus","Harriers",2022,"Interior",14,5,0,14
+"239","Peregrine falcon","Falco peregrinus","Falcons",2019,"Coast",2,1,0,2
+"240","Peregrine falcon","Falco peregrinus","Falcons",2020,"Coast",9,2,3,6
+"241","Peregrine falcon","Falco peregrinus","Falcons",2022,"Coast",2,1,0,2
+"242","raptor spec","raptor spec","",2019,"Coast",2,1,0,2
+"243","raptor spec","raptor spec","",2019,"Foothills",2,2,0,2
+"244","raptor spec","raptor spec","",2019,"Interior",2977,2014,0,2977
+"245","raptor spec","raptor spec","",2020,"Coast",1,1,0,1
+"246","raptor spec","raptor spec","",2020,"Interior",369,272,0,369
+"247","raptor spec","raptor spec","",2022,"Coast",9,3,0,9
+"248","raptor spec","raptor spec","",2022,"Foothills",1,1,0,1
+"249","raptor spec","raptor spec","",2022,"Interior",24,22,0,24
+"250","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2019,"Coast",1291,262,0,1291
+"251","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2019,"Foothills",1377,541,0,1377
+"252","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2019,"Interior",13104,1901,0,13104
+"253","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2020,"Coast",125,120,0,125
+"254","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2020,"Foothills",502,381,0,502
+"255","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2020,"Interior",1838,864,0,1838
+"256","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2022,"Coast",10844,2377,0,10844
+"257","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2022,"Foothills",5352,2367,0,5352
+"258","raptor spec (medium)","Buteo/Pernis/Milvus","Buzzards & Kites",2022,"Interior",54609,18797,0,54609
+"259","Red-footed falcon","Falco vespertinus","Falcons",2019,"Coast",2,1,0,2
+"260","Red-footed falcon","Falco vespertinus","Falcons",2020,"Coast",13,2,1,12
+"261","Red-footed falcon","Falco vespertinus","Falcons",2020,"Foothills",1,1,0,1
+"262","Red-footed falcon","Falco vespertinus","Falcons",2022,"Coast",8,2,0,8
+"263","Red-footed falcon","Falco vespertinus","Falcons",2022,"Foothills",1,1,0,1
+"264","Ringtail harriers","Circus spec","Harriers",2019,"Coast",54,16,0,54
+"265","Ringtail harriers","Circus spec","Harriers",2019,"Foothills",23,5,0,23
+"266","Ringtail harriers","Circus spec","Harriers",2019,"Interior",16,3,0,16
+"267","Ringtail harriers","Circus spec","Harriers",2020,"Coast",66,9,1,65
+"268","Ringtail harriers","Circus spec","Harriers",2020,"Foothills",29,8,1,28
+"269","Ringtail harriers","Circus spec","Harriers",2020,"Interior",30,6,0,30
+"270","Ringtail harriers","Circus spec","Harriers",2022,"Coast",169,31,6,163
+"271","Ringtail harriers","Circus spec","Harriers",2022,"Foothills",88,13,0,88
+"272","Ringtail harriers","Circus spec","Harriers",2022,"Interior",124,14,0,124
+"273","Rough-legged buzzard","Buteo lagopus","Buzzards & Kites",2022,"Coast",4,2,0,4
+"274","Short-toed eagle","Circaetus gallicus","Eagles",2019,"Coast",722,152,0,722
+"275","Short-toed eagle","Circaetus gallicus","Eagles",2019,"Foothills",108,24,0,108
+"276","Short-toed eagle","Circaetus gallicus","Eagles",2019,"Interior",37,16,0,37
+"277","Short-toed eagle","Circaetus gallicus","Eagles",2020,"Coast",691,217,1,690
+"278","Short-toed eagle","Circaetus gallicus","Eagles",2020,"Foothills",213,45,2,211
+"279","Short-toed eagle","Circaetus gallicus","Eagles",2020,"Interior",118,41,0,118
+"280","Short-toed eagle","Circaetus gallicus","Eagles",2022,"Coast",890,235,1,889
+"281","Short-toed eagle","Circaetus gallicus","Eagles",2022,"Foothills",229,57,0,229
+"282","Short-toed eagle","Circaetus gallicus","Eagles",2022,"Interior",287,73,0,287
+"283","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2019,"Coast",46727,4645,0,46727
+"284","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2019,"Foothills",20086,2266,1,20085
+"285","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2019,"Interior",48392,21060,0,48392
+"286","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2020,"Coast",144018,18430,17,144001
+"287","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2020,"Foothills",71944,32487,2,71942
+"288","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2020,"Interior",94211,15609,0,94211
+"289","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2022,"Coast",69034,8270,74,68960
+"290","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2022,"Foothills",23144,3121,2,23142
+"291","Steppe buzzard","Buteo b. vulpinus","Buzzards & Kites",2022,"Interior",64530,9268,3,64527
+"292","Steppe eagle","Aquila nipalensis","Eagles",2019,"Coast",47,6,0,47
+"293","Steppe eagle","Aquila nipalensis","Eagles",2019,"Foothills",20,3,0,20
+"294","Steppe eagle","Aquila nipalensis","Eagles",2019,"Interior",4,2,0,4
+"295","Steppe eagle","Aquila nipalensis","Eagles",2020,"Coast",74,11,1,73
+"296","Steppe eagle","Aquila nipalensis","Eagles",2020,"Foothills",29,4,0,29
+"297","Steppe eagle","Aquila nipalensis","Eagles",2020,"Interior",5,2,0,5
+"298","Steppe eagle","Aquila nipalensis","Eagles",2022,"Coast",85,29,0,85
+"299","Steppe eagle","Aquila nipalensis","Eagles",2022,"Foothills",9,2,0,9
+"300","Steppe eagle","Aquila nipalensis","Eagles",2022,"Interior",2,1,0,2
+"301","Stork spec","Ciconia spec","Cranes, Storks & Pelicans",2022,"Interior",1,1,0,1
+"302","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2019,"Coast",35,13,1,34
+"303","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2019,"Foothills",7,6,0,7
+"304","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2019,"Interior",11,6,0,11
+"305","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2020,"Coast",132,25,2,130
+"306","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2020,"Foothills",7,3,0,7
+"307","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2020,"Interior",0,0,1,-1
+"308","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2022,"Coast",45,6,7,38
+"309","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2022,"Foothills",16,6,0,16
+"310","White stork","Ciconia ciconia","Cranes, Storks & Pelicans",2022,"Interior",1,1,0,1
+"311","White-tailed eagle","Haliaeetus albicilla","Rare",2019,"Coast",1,1,0,1
+"312","White-tailed eagle","Haliaeetus albicilla","Rare",2019,"Interior",1,1,0,1
+"313","White-tailed eagle","Haliaeetus albicilla","Rare",2020,"Coast",3,1,0,3
+"314","White-tailed eagle","Haliaeetus albicilla","Rare",2020,"Foothills",2,1,0,2
+"315","White-tailed eagle","Haliaeetus albicilla","Rare",2020,"Interior",1,1,2,-1
+"316","White-tailed eagle","Haliaeetus albicilla","Rare",2022,"Coast",13,5,8,5
+"317","White-tailed eagle","Haliaeetus albicilla","Rare",2022,"Interior",1,1,0,1
