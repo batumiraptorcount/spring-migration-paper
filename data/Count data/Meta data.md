@@ -42,3 +42,7 @@
 - **daytot.back**: Daily total of birds flying in the opposite seasonal direction — south during spring and north during autumn — for the corresponding species and distance code.
 
 - **daytot.fin**: Final daily total for the corresponding species and distance code, after subtracting daytot.back from daytot.
+
+** BEWARE **
+Whereas a post-hoc correction is normally performed on our autumn data to estimate the proportions of species among unidentified birds on each day (Wehrmann et al. 2019, Vansteelant et al. 2020), this is not the case here. Due to the higher number of unidentified raptors compared to identified raptors in our spring data, we were unable to develop an elegant correction for the daily totals in our spring data. Therefore, both the autumn and spring data provided here contain the cleaned, but uncorrected, daily/annual counts for both spring and autumn.
+
