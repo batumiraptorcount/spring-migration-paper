@@ -46,5 +46,5 @@
 
 **BEWARE**
 
-Whereas a post-hoc correction is normally performed on our autumn data to estimate the proportions of species among unidentified birds on each day (Wehrmann et al. 2019, Vansteelant et al. 2020), this is not the case here. Due to the higher number of unidentified raptors compared to identified raptors in our spring data, we were unable to develop an elegant correction for the daily totals in our spring data. Therefore, both the autumn and spring data provided here contain the cleaned, but uncorrected, daily/annual counts for both spring and autumn.
+Whereas a post-hoc correction is normally performed on our autumn data to estimate the proportions of species among unidentified birds on each day (Wehrmann et al. 2019, Vansteelant et al. 2020), this is not the case here. Due to the higher number of unidentified raptors compared to identified raptors in our spring data, we were unable to develop an elegant correction for the daily totals in our spring data. Therefore, the data provided here contains the cleaned, but uncorrected, daily/annual counts for both spring and autumn.
 
