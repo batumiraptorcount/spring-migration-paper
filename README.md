@@ -1,4 +1,6 @@
 # spring-migration-paper
+[![DOI](https://zenodo.org/badge/983015429.svg)](https://doi.org/10.5281/zenodo.16411086)
+
 Code and data for the spring paper Tal et al.
 
 ## Additional data
